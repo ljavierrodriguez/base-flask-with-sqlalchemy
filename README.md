@@ -44,9 +44,9 @@ from models import db
 9. Cargar las variables de entorno del archivo ***.env***
 
 ```python
-...
+
 load_dotenv() # cargar las variables de entorno
-...
+
 ```
 
 10. Instanciar una variable de Flask
